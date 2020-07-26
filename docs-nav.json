@@ -1,0 +1,18 @@
+{
+  "items":[
+    {
+      "text":"Документация CarTrek",
+      "items":[
+        {
+          "text":"Описание API",
+          "items":[
+            {
+              "text":"Введение",
+              "path":"index.md"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
