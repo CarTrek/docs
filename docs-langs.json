@@ -1,0 +1,9 @@
+{
+  "Languages":[
+    {
+      "DisplayName" : "Russian",
+      "Code" : "ru",
+      "IsDefault": true
+    }
+  ]
+}
